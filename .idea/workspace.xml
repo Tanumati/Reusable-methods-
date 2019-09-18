@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09a4496f-fd44-4420-a6fc-13192ec224b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArraayLoop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/Age_Vote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/CityName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/META-INF/Operators.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/MathsCalculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/OddEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/StudentResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/UpperLower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/ValueDefine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Practice/Inheritance Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/Locators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/NopCommerce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/OrangeRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/NopCommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/OrangeRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String practice/String practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenhomework/mavenhomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice array/practice array.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="registration1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Basepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Registration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2373">
+              <caret line="153" column="77" selection-start-line="153" selection-start-column="77" selection-end-line="153" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#UserShouldBeAbleToNavigateCameraAndPhoto#0;class#Registration#0" />
+                <element signature="method#UserShouldBeAbleToFilterJwellery#0;class#Registration#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registration1.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Loadprops.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Resources/Testdataconfig.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Basepage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Loadprops.java" />
+        <option value="$PROJECT_DIR$/src/main/Resources/Testdataconfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Registration.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="registration 1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/dictionaries/bakul.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-215" />
+    <option name="y" value="191" />
+    <option name="width" value="1346" />
+    <option name="height" value="565" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="registration1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Resources/Browser driver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\registration1\src\main\Resources\Browser driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Registration.UserShouldBeAbletoTwoProductInShoppingCart">
+    <configuration name="Loadprops.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="registration1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Loadprops" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="registration1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration.UserShouldBeAbleSendAProductEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="registration1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleSendAProductEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration.UserShouldBeAbleToRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="registration1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToRegistration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="registration1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <option name="METHOD_NAME" value="UserShouldBeAbletoTwoProductInShoppingCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Registration.UserShouldBeAbletoTwoProductInShoppingCart" />
+        <item itemvalue="TestNG.Registration" />
+        <item itemvalue="TestNG.Registration.UserShouldBeAbleSendAProductEmail" />
+        <item itemvalue="TestNG.Registration.UserShouldBeAbleToRegistration" />
+        <item itemvalue="TestNG.Loadprops.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a4496f-fd44-4420-a6fc-13192ec224b4" name="Default Changelist" comment="" />
+      <created>1568554053280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568554053280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 22h 23m 46s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 22h 25m 34s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 22h 46m 39s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 22h 53m 23s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 22h 55m 12s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 23h 01m 33s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.17 at 23h 06m 41s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration - 2019.09.17 at 23h 14m 29s.xml">
+      <configuration name="Registration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration - 2019.09.18 at 14h 16m 22s.xml">
+      <configuration name="Registration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_UserShouldBeAbletoTwoProductInShoppingCart - 2019.09.18 at 14h 26m 51s.xml">
+      <configuration name="Registration.UserShouldBeAbletoTwoProductInShoppingCart" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.19818456" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="6" weight="0.32980332" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.28641573" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.12274959" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nop commerce/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/nop commerce/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Basepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Loadprops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/Testdataconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2373">
+          <caret line="153" column="77" selection-start-line="153" selection-start-column="77" selection-end-line="153" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#UserShouldBeAbleToNavigateCameraAndPhoto#0;class#Registration#0" />
+            <element signature="method#UserShouldBeAbleToFilterJwellery#0;class#Registration#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
